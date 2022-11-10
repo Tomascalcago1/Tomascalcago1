@@ -103,15 +103,15 @@ Content-Type es la propiedad de cabecera (header) usada para indicar el media ty
 ## Ejercicio 3
 
 >1
-
+-	Realizar un request GET a la URL: 
 ![Captura de pantalla (2)](https://user-images.githubusercontent.com/89410795/201197702-ca6fc6a5-4967-4e66-955d-134e91c7c1c9.png)
 
 >2
-
+- Realizar un request POST a la URL anterior, y con mi nombre y mail en el body:
 ![Captura de pantalla (4)](https://user-images.githubusercontent.com/89410795/201197910-8c7bf9b5-d2f6-4d04-a451-d0ec654a253e.png)
 
 >3
-
+-	Realizar nuevamente un request GET a la URL: 
 ![Captura de pantalla (3)](https://user-images.githubusercontent.com/89410795/201197947-e902209b-77cb-4fa0-a18b-e4143fa047c1.png)
 
 Entre las llamadas 1 y 3 la diferencia es que al final mis datos quedan ingresados en la pagina y se muestran al final de la misma 

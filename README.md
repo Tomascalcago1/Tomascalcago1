@@ -113,3 +113,9 @@ Content-Type es la propiedad de cabecera (header) usada para indicar el media ty
 >3
 
 ![Captura de pantalla (3)](https://user-images.githubusercontent.com/89410795/201197947-e902209b-77cb-4fa0-a18b-e4143fa047c1.png)
+
+Entre las llamadas 1 y 3 la diferencia es que al final mis datos quedan ingresados en la pagina y se muestran al final de la misma 
+
+## Ejercicio 4
+
+

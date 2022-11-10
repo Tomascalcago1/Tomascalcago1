@@ -105,6 +105,11 @@ Content-Type es la propiedad de cabecera (header) usada para indicar el media ty
 >1
 
 ![Captura de pantalla (2)](https://user-images.githubusercontent.com/89410795/201197702-ca6fc6a5-4967-4e66-955d-134e91c7c1c9.png)
+
 >2
+
+![Captura de pantalla (4)](https://user-images.githubusercontent.com/89410795/201197910-8c7bf9b5-d2f6-4d04-a451-d0ec654a253e.png)
+
 >3
 
+![Captura de pantalla (3)](https://user-images.githubusercontent.com/89410795/201197947-e902209b-77cb-4fa0-a18b-e4143fa047c1.png)

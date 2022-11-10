@@ -68,8 +68,24 @@ La diferencia entre los métodos get y post radica en la **forma de enviar los d
 
 >7.	¿Qué verbo http utiliza el navegador cuando accedemos a una página?
 
+Cuando accedemos a una pagina el navegador utiliza el verbo **GET**
+
 
 >8.	Explicar brevemente qué son las estructuras de datos JSON y XML dando ejemplo de estructuras posibles.
+
+- JSON está constituído por dos estructuras:
+
+  - Una colección de pares de nombre/valor. En varios lenguajes esto es conocido como un objeto, registro, estructura, diccionario, tabla hash, lista de claves o un arreglo asociativo.
+  - Una lista ordenada de valores. En la mayoría de los lenguajes, esto se implementa como arreglos, vectores, listas o sequencias.
+ 
+- HTM tiene las siguientes caracteristicas :
+  
+  - Los elementos de un documento XML deben seguir una estructura de “árbol” (estrictamente jerárquica).
+  - Los elementos deben estar correctamente anidados.
+  - Los elementos no se pueden superponer entre ellos.
+  - Sólo puede haber un elemento raiz, en el que estén contenidos todos los demás.
+
+
 >9.	Explicar brevemente el estándar SOAP
 >10.	Explicar brevemente el estándar REST Full
 >11.	¿Qué son los headers en un request? ¿Para qué se utiliza el key Content-type en un header?

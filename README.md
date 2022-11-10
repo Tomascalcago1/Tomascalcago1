@@ -52,7 +52,7 @@ Query string es un término informático que se utiliza para hacer referencia a 
 
 >5.	¿Qué es el responseCode? ¿Qué significado tiene los posibles valores devueltos?
 
-Los códigos de estado de respuesta HTTP indican si se ha completado satisfactoriamente una solicitud HTTP específica. Las respuestas se agrupan en cinco clases:
+Los códigos de estado de respuesta HTTP **indican si se ha completado satisfactoriamente una solicitud HTTP específica**. Las respuestas se agrupan en cinco clases:
 
 - Respuestas informativas (100–199),
 - Respuestas satisfactorias (200–299),
@@ -62,7 +62,13 @@ Los códigos de estado de respuesta HTTP indican si se ha completado satisfactor
 
 
 >6.	¿Cómo se envía la data en un Get y cómo en un POST? 
+
+La diferencia entre los métodos get y post radica en la **forma de enviar los datos a la página** cuando se pulsa el botón “Enviar”. Mientras que el método GET envía los datos usando la URL, el método POST los envía de forma que no podemos verlos (en un segundo plano u "ocultos" al usuario).
+
+
 >7.	¿Qué verbo http utiliza el navegador cuando accedemos a una página?
+
+
 >8.	Explicar brevemente qué son las estructuras de datos JSON y XML dando ejemplo de estructuras posibles.
 >9.	Explicar brevemente el estándar SOAP
 >10.	Explicar brevemente el estándar REST Full

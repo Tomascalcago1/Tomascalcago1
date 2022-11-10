@@ -87,7 +87,16 @@ Cuando accedemos a una pagina el navegador utiliza el verbo **GET**
 
 
 >9.	Explicar brevemente el estándar SOAP
+
+SOAP es un protocolo ligero para el intercambio de información en entornos descentralizados y distribuidos. Los mensajes SOAP son las transmisiones de información de remitentes a destinatarios. Los mensajes SOAP se pueden combinar para crear patrones de petición/respuesta.
+
+
 >10.	Explicar brevemente el estándar REST Full
+
+Un conjunto de funciones y procedimientos que ofrece una biblioteca para que otro software la utilice como capa de abstracción mediante el formato estándar de JSON o XML
+
 >11.	¿Qué son los headers en un request? ¿Para qué se utiliza el key Content-type en un header?
 
+Los HTTP headers son la parte central de los HTTP requests y responses, y transmiten información acerca del navegador del cliente, de la página solicitada, del servidor, etc. La primera línea es la línea del request, que contiene su información básica (método HTTP, URL y versión)
+Content-Type es la propiedad de cabecera (header) usada para indicar el media type (en-US) del recurso. Content-Type dice al cliente que tipo de contenido será retornado.hace 3 días
 

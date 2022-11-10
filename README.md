@@ -104,6 +104,7 @@ Content-Type es la propiedad de cabecera (header) usada para indicar el media ty
 
 >1
 -	Realizar un request GET a la URL: 
+
 ![Captura de pantalla (2)](https://user-images.githubusercontent.com/89410795/201197702-ca6fc6a5-4967-4e66-955d-134e91c7c1c9.png)
 
 >2

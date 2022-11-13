@@ -195,5 +195,41 @@ Como parte de los servicios Salesforce, Marketing Cloud es un **módulo de Sales
 - Funcionalidades de Salesforce
 
 
+>¿Qué es un RecordType?
+
+Los Record Types en Salesforce nos permiten **definir diferentes Business Process, Pages Layouts y Picklist Values** en un determinado objeto. Así mismo, los Record Types nos ayudan a **mostrar distintos tipos de información** según el perfil del usuario.
+
+>¿Qué es un ReportType?
+
+Un reporte es una **lista de registros que cumplen los criterios que define**. Se muestra en Salesforce en filas y columnas, y se puede filtrar, agrupar o mostrar en un diagrama gráfico. Cada reporte se almacena en una carpeta.
+
+>¿Qué es un Page Layout?
+
+Los diseños de página controlan el diseño y la organización de botones, campos, s-controls, Visualforce, enlaces personalizados y listas relacionadas en páginas de registros de objetos.
+
+>¿Qué es un Compact Layout?
+
+Un diseño compacto muestra los campos clave de un registro de un vistazo en la aplicación móvil Salesforce, Lightning Experience y en las integraciones de Outlook y Gmail.
+
+>¿Qué es un Perfil?
+
+Los perfiles definen cómo acceden los usuarios a objetos y datos y qué pueden hacer en la aplicación.
+
+>¿Qué es un Rol?
+
+Los roles controlan el nivel de visibilidad que un usuario tiene sobre los datos de su organización. Usuarios en cualquier función dada pueden ver, editar, e informar sobre todos los datos para funciones por debajo de ellos en la jerarquía de roles.
+
+>¿Qué es un Validation Rule?
+
+Las reglas de validación verifican que los datos que un usuario introduce en un registro cumplen con las normas que especifica antes de que el usuario guarde el registro. Una regla de validación puede contener una fórmula o expresión que evalúa los datos en uno o más campos y ofrece un valor “Verdadero” o “Falso”.
+
+>¿Qué diferencia hay entre una relación Master Detail y Lookup?
+>¿Qué es un Sandbox?
+>¿Qué es un ChangeSet?
+>¿Para qué sirve el import Wizard de Salesforce?
+>¿Para qué sirve la funcionalidad Web to Lead?
+>¿Para qué sirve la funcionalidad Web to Case?
+>¿Para qué sirve la funcionalidad Omnichannel?
+>¿Para qué sirve la funcionalidad Chatter?
 
 

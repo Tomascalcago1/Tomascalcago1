@@ -165,3 +165,8 @@ Es donde se encuentan todos los casos de los contactos que se deben resolver. Lo
 
 
 ![Ejercicio 5 drawio](https://user-images.githubusercontent.com/89410795/201535108-96c4e50a-89a3-47d3-8f33-7f38e8cec973.png)
+
+
+## Ejercicio 6
+
+###Soluciones de Salesforce

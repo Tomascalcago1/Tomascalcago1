@@ -169,4 +169,13 @@ Es donde se encuentan todos los casos de los contactos que se deben resolver. Lo
 
 ## Ejercicio 6
 
-###Soluciones de Salesforce
+- Soluciones de Salesforce
+
+>	¿Qué es Salesforce?
+>	¿Qué es Sales Cloud?
+>	¿Qué es Service Cloud?
+>	¿Qué es Health Cloud?
+>	¿Qué es Marketing Cloud?
+
+
+

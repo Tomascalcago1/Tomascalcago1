@@ -171,11 +171,29 @@ Es donde se encuentan todos los casos de los contactos que se deben resolver. Lo
 
 - Soluciones de Salesforce
 
->	¿Qué es Salesforce?
->	¿Qué es Sales Cloud?
->	¿Qué es Service Cloud?
->	¿Qué es Health Cloud?
->	¿Qué es Marketing Cloud?
+>¿Qué es Salesforce?
+
+Salesforce es una **plataforma de gestión de las relaciones con los clientes** (CRM) basada en la nube que proporciona a todos los departamentos de su organización, incluidos los de marketing, ventas, servicio de atención al cliente y ecommerce, una visión unificada de sus clientes en una plataforma integrada.
+
+>¿Qué es Sales Cloud?
+
+Sales Cloud es una **herramienta de ventas todo en uno y CRM** que combina la mayoría de las mismas capacidades que encontrarás en otras herramientas. Sin embargo, con Sales Cloud, obtienes las funciones de automatización de ventas que necesitas en un solo lugar.
+
+>¿Qué es Service Cloud?
+
+Service Cloud es una **solución completa de atención al cliente** creada especialmente para dar soporte a los clientes a cualquier hora y en cualquier lugar, por teléfono, correo electrónico, redes sociales, chats y páginas o comunidades de auto ayuda.
+
+>¿Qué es Health Cloud?
+
+Health Cloud es una plataforma especialmente diseñada para la **gestión clínica de pacientes por medio de tecnologías on-cloud**, la cual ofrece: una comunicación más personalizado entre pacientes, miembros, proveedores y prestadores de servicios de salud, y un mejor ajuste a los procesos, servicios y datos médicos según el perfil de cuidado de cada paciente.
+
+>¿Qué es Marketing Cloud?
+
+Como parte de los servicios Salesforce, Marketing Cloud es un **módulo de Salesforce** que contiene múltiples herramientas para mejorar la **interacción de las marcas con sus clientes** y potenciales a través de todo tipo de canales.
+
+
+- Funcionalidades de Salesforce
+
 
 
 
